@@ -90,6 +90,20 @@
 - PyCharm
 - Eclipse
 
+### Asynchronous tools
+
+- Jira Work Management
+- Confluence
+- Trello
+- Notion
+
+### Synchronous tools
+
+- Slack
+- Microsoft Teams
+- Zoom
+- Google Chat
+
 ## Most loved, dreaded
 
 ### Programming, Scripting, and markup languages
@@ -341,29 +355,33 @@
 
 - Programming, scripting, and markup languages -
   - [Professional] JavaScript, HTML/CSS, SQL, Python, TypeScript, Node.js, Java
-  - [Top Paying] Clojure, F#, Elixir, Erlang, Perl, Ruby, Rust, Go
   - [Loved] Rust, Clojure, TypeScript, Elixir, Julia, Python, Dart
+  - [Top Paying] Clojure, F#, Elixir, Erlang, Perl, Ruby, Rust, Go
 - Databases -
   - [Professional] MySQL, PostgreSQL, SQLite, Microsoft SQL Server, MongoDB, Redis
-  - [Top Paying] DynamoDB, Elasticsearch, Cassandra, Redis
   - [Loved] Redis, PostgreSQL, MongoDB, Elasticsearch, Firebase, DynamoDB
+  - [Top Paying] DynamoDB, Elasticsearch, Cassandra, Redis
 - Platforms -
   - [Professional] AWS, Google Cloud Platform, Microsoft Azure
-  - [Top Paying] AWS, Microsoft Azure, Google Cloud Platform
   - [Loved] AWS, Google Cloud Platform, Microsoft Azure
+  - [Top Paying] AWS, Microsoft Azure, Google Cloud Platform
 - Web Frameworks -
   - [Professional] React.js, Jquery, Angular, ASP.NET Core, Vue.js, Flask, Django
-  - [Top Paying] Ruby on Rails, Svelte, ASP.NET, Gatsby, React.js, Flask
   - [Loved] Svelte, ASP.NET Core, FastAPI, React.js, Vue.js, Express, Ruby on Rails
+  - [Top Paying] Ruby on Rails, Svelte, ASP.NET, Gatsby, React.js, Flask
 - Other Frameworks -
   - [Professional] .NET Framework, .NET Core, Numpy, Pandas, Flutter, PyTorch
-  - [Top Paying] - Apache Spark, .NET Core, .NET Framework, Numpy, Pandas, PyTorch
   - [Loved] - .NET Core, Flutter, PyTorch, Pandas, Numpy
+  - [Top Paying] - Apache Spark, .NET Core, .NET Framework, Numpy, Pandas, PyTorch
 - Other Tools -
   - [Professional] Git, Docker, Yarn
-  - [Top Paying] Pulumi, Terraform, Chef, Puppet, Kubernetes, Docker, Yarn, Git
   - [Loved] Git, Docker, Kubernetes, Terraform, Yarn
+  - [Top Paying] Pulumi, Terraform, Chef, Puppet, Kubernetes, Docker, Yarn, Git
 - Collaboration Tools -
   - [Professional] VS Code, VS, IntelliJ, Notepad++, Vim, PyCharm
-  - [Top Paying] TextMate, Emacs, RubyMine, Rider, Vim, Neovim, IntelliJ
   - [Loved] Neovim, VS Code, Rider, Vim, Emacs, IntelliJ, Jupyter, WebStorm, PyCharm
+  - [Top Paying] TextMate, Emacs, RubyMine, Rider, Vim, Neovim, IntelliJ
+- Asynchronous Tools -
+  - Jira, Confluence, Trello, Notion
+- Synchronous Tools -
+  - Slack, Microsoft Teams, Zoom, Google Chat
